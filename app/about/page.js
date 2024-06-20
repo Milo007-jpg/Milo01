@@ -11,8 +11,8 @@ export default function about() {
                     <img src="/img/m.png" class="card-img-top custom-img"
                         alt="Card Image"></img>
                     <div class="card-body text-center">
-                        <h5 class="card-title">แกนนำเซเว่น5555555</h5>
-                        <p class="card-text">ชื่อ : เขียวหน้าปากซอย555</p>
+                        <h5 class="card-title">แกนนำเซเว่น</h5>
+                        <p class="card-text">ชื่อ : เขียวหน้าปากซอย</p>
                         <a href="#" class="btn btn-primary">Button</a>
                     </div>
                 </div>
